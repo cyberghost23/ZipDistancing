@@ -9,7 +9,7 @@ Using a mathematical ecuation to calculate distances, given longitude and latitu
 
 you can find the equation below in the (calculate) function.
 
-https://github.com/cyberghost23/ZipDistancing/blob/cb55af6f72e68087056b36840465a3aebe856d59/index.js#L97C1-L112C2
+https://github.com/cyberghost23/ZipDistancing/blob/cb55af6f72e68087056b36840465a3aebe856d59/index.js#L97-L112
 
 I created this as a task for a small business.
 
